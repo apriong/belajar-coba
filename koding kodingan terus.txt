@@ -1,7 +1,11 @@
 -koding web rt
   ~skretaris board
     * daftar warga
+      ^ NO KK
+      ^ NIK KK
     * Kepala Keluarga
+      ^ tambah fitur pindah
+      ^ tambah fitur hilang
 -koding web kantor
   ~ halaman gaji karyawan
 -koding web pribadi
