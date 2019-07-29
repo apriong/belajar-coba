@@ -1,5 +1,7 @@
 -koding web rt
   ~skretaris board
+    * daftar warga
+    * Kepala Keluarga
 -koding web kantor
   ~ halaman gaji karyawan
 -koding web pribadi
