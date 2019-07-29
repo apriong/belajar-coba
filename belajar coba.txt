@@ -1,4 +1,6 @@
 menulis pertama
--terartur
+-teratur
 -sembarang
 -tertib
+-rapi
+-koding terus
