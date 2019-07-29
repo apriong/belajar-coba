@@ -1,6 +1,8 @@
 -koding web rt
   ~skretaris board
     * daftar warga
+      ^ NO KK
+      ^ NIK KK
     * Kepala Keluarga
 -koding web kantor
   ~ halaman gaji karyawan
