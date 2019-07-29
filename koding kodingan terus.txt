@@ -2,9 +2,12 @@
   ~skretaris board
     * daftar warga
       ^ Alamat Keluarga
-      ^ NIK KK
     * Kepala Keluarga
       ^ tambah fitur Kematian
+      ^ NO KK
+      ^ NIK KK
+      ^ tambah fitur pindah
+      ^ tambah fitur hilang
 -koding web kantor
   ~ halaman gaji karyawan
 -koding web pribadi
