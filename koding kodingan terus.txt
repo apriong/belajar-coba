@@ -1,9 +1,11 @@
 -koding web rt
   ~skretaris board
     * daftar warga
+      ^ Alamat Keluarga
+    * Kepala Keluarga
+      ^ tambah fitur Kematian
       ^ NO KK
       ^ NIK KK
-    * Kepala Keluarga
       ^ tambah fitur pindah
       ^ tambah fitur hilang
 -koding web kantor
